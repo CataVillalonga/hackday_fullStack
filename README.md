@@ -1,3 +1,2 @@
 # hackday_fullStack
-
-This is a project :)
+Youtube clone Fullstack app created for hackday at School of applied technology
